@@ -1,0 +1,7 @@
+1. all programs were written in python, therefore first we need install python 3.5
+2. we also need some extra libraries:matplotlib, pandas, numpy(will be downloaded automatically)
+3. change current directory to my assignment folder, install wheels by running:
+   pip install pandas
+   pip install matplotlib
+4. run python program assignment1_1.py,assignment1_2.py,assignment1_3.py. Note that the input data should be at the same directory with the python program
+5. all running results and description can be found in doc.docx
