@@ -20,3 +20,6 @@ Upon successful completion of the course, students are able to:</br>
 You should be proficient in database design and have an understanding of basic database system implementation techniques.  In addition to that, basic understanding in probability and statistics is desirables.
 
 We also recommend that all students have prior experience with at least one programming language such as **C/C++/Java/C#/R/Perl** and have demonstrated ability to work on coding algorithms and data structures. Students with no programming experience or interest should not take this course.
+
+# Final Project:
+The US 2016 Presidential Election Prediction
